@@ -3,7 +3,7 @@
 Created on Thu Jun 15 2023
 
 @author: Iri Zink
-
+M02CaseStudy
 Display if a student has made the Bean's list or Honor Roll based on their GPA
 """
 
